@@ -1,0 +1,5 @@
+com\emplaccess\repositories\AppConfig.class
+com\emplaccess\bean\Constants.class
+com\emplaccess\controller\CountryController.class
+com\emplaccess\domain\Machine.class
+com\emplaccess\domain\Employee.class
